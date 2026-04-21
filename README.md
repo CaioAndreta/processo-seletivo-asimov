@@ -1,1 +1,3 @@
-# processo-seletivo-asimov
+- As ferramentas de IA empregadas foram Lovable (principal) e Gemini (assistente de código).
+- Na Parte 1, o Lovable foi empregado para criar a estrutura inicial da landing page com base no design, o que acelerou consideravelmente a etapa de prototipação. O Gemini ajudou com ajustes específicos no código. Na parte 2, o Lovable serviu novamente como ponto de partida para a construção rápida do MVP da seção, com o Gemini oferecendo suporte em partes específicas. A IA foi mais útil para tirar os projetos do zero, como na estruturação de componentes, no layout base e na estilização inicial.
+- Ajustes manuais: estilizações com Tailwind CSS para manter a fidelidade ao design e duas funcionalidades personalizadas: ícones customizados nos marcadores da Parte 2 e definição de cores individuais para os cards de serviços da Parte 1. Ambos exigiram lógica específica que a IA não entregou diretamente.
